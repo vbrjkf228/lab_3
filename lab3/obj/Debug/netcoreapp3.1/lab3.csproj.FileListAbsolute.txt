@@ -1,0 +1,14 @@
+D:\programing\orders\c#_Mykola_and_Vlad\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.exe
+D:\programing\orders\c#_Mykola_and_Vlad\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.deps.json
+D:\programing\orders\c#_Mykola_and_Vlad\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.json
+D:\programing\orders\c#_Mykola_and_Vlad\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.dev.json
+D:\programing\orders\c#_Mykola_and_Vlad\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.dll
+D:\programing\orders\c#_Mykola_and_Vlad\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.pdb
+D:\programing\orders\c#_Mykola_and_Vlad\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.csproj.AssemblyReference.cache
+D:\programing\orders\c#_Mykola_and_Vlad\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing\orders\c#_Mykola_and_Vlad\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfoInputs.cache
+D:\programing\orders\c#_Mykola_and_Vlad\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfo.cs
+D:\programing\orders\c#_Mykola_and_Vlad\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.csproj.CoreCompileInputs.cache
+D:\programing\orders\c#_Mykola_and_Vlad\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.dll
+D:\programing\orders\c#_Mykola_and_Vlad\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.pdb
+D:\programing\orders\c#_Mykola_and_Vlad\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.genruntimeconfig.cache

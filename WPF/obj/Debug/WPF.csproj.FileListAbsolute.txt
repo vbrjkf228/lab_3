@@ -1,0 +1,10 @@
+D:\programing\orders\c#_Mykola_and_Vlad\lab3\WPF\bin\Debug\WPF.exe.config
+D:\programing\orders\c#_Mykola_and_Vlad\lab3\WPF\bin\Debug\WPF.exe
+D:\programing\orders\c#_Mykola_and_Vlad\lab3\WPF\bin\Debug\WPF.pdb
+D:\programing\orders\c#_Mykola_and_Vlad\lab3\WPF\obj\Debug\WPF.csproj.AssemblyReference.cache
+D:\programing\orders\c#_Mykola_and_Vlad\lab3\WPF\obj\Debug\WPF.Form1.resources
+D:\programing\orders\c#_Mykola_and_Vlad\lab3\WPF\obj\Debug\WPF.Properties.Resources.resources
+D:\programing\orders\c#_Mykola_and_Vlad\lab3\WPF\obj\Debug\WPF.csproj.GenerateResource.cache
+D:\programing\orders\c#_Mykola_and_Vlad\lab3\WPF\obj\Debug\WPF.csproj.CoreCompileInputs.cache
+D:\programing\orders\c#_Mykola_and_Vlad\lab3\WPF\obj\Debug\WPF.exe
+D:\programing\orders\c#_Mykola_and_Vlad\lab3\WPF\obj\Debug\WPF.pdb
